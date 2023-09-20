@@ -1,0 +1,186 @@
+/* Import the Google Font Syne */
+
+@import url(https://fonts.googleapis.com/css?family=Syne:regular,500,600,700,800);
+
+.background-rectangle{
+    background-color: #161615;
+}
+
+
+/* .image .Rectangle {
+    height: 549px;
+    left: 0;
+    mix-blend-mode: overlay;
+    position: fixed;
+    top: 0;
+    width: 140px;
+    top: 41px;
+    opacity: 0.5px;
+    top: 41px;
+    opacity: 0.5px;
+} */
+
+.box .rectangle {
+    background-color: #f07e15;
+    height: 354px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 992px;
+    top: 344.62px;
+    left: 447px;
+    opacity: 0.2px;
+}
+
+
+.image .jessica {
+    height: 655px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 432px;
+    top: 133.05px;
+    left: 899px;
+}
+
+.box {
+    height: 372px;
+    width: 367px;
+}
+
+.box .big-star {
+    height: 372px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 367px;
+    top: 129px;
+    left: 1010px;
+    border: 1px;
+}
+
+
+.box .line {
+    height: 1px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 976px;
+    top: 665.51px;
+    border: 1px;
+    rotate: -0 deg;
+}
+
+.label {
+    height: 16px;
+    width: 117px;
+}
+
+.label .oregon-jacket {
+    color: #161615;
+    font-family: "Work Sans-Regular", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+    white-space: nowrap;
+    width: 117px;
+    height: 16.2px;
+    top: 614.9px;
+    left: 1300px;
+
+}
+
+
+.label .text-wrapper {
+    color: #161615;
+    font-family: "Work Sans-Regular", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+    white-space: nowrap;
+    width: 31px;
+    height: 16.2px;
+    top: 634.13px;
+    left: 1300px;
+
+}
+
+
+.box .star {
+    height: 89px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 64px;
+    top: 620.97px;
+    left: 944px;
+}
+
+.card-img-overlay{
+    height: 151px;
+    width: 689px;
+    margin-top: 100px;
+}
+
+.card-title1{
+    -webkit-text-stroke: 1px #ffffff; 
+    width: 689px;
+    color: #ffffff;
+    height: 151px;
+    top: 180px;
+    left: 115px; 
+    border: 1px ;
+    position: relative;
+    font-family: Syne;
+    font-weight: 800;
+    font-size: 115px;
+    line-height: 102.6px;
+
+}
+
+.card-title2{
+    color: transparent;
+    -webkit-text-stroke: 2px #ffffff;
+    width: 710px;
+    height: 144px;
+    position: relative;
+    top: 136px;
+    left: 424px;
+    border: 2px;
+    font-family: Syne;
+    font-size: 115px;
+    font-weight: 800;
+    line-height: 108px;
+    letter-spacing: 0em;
+    text-align: left;
+    /* background: rgba(255, 255, 255, 1);
+    border: 2px solid rgba(255, 255, 255, 1) */
+}
+
+.card-title3{
+    -webkit-text-stroke: 1px #ffffff; 
+    color: #ffffff;
+    width: 527px;
+    height: 103px;
+    top: 100px;
+    left: 187px;
+    border: 1px;
+    position: relative;
+    font-family: Syne;
+    font-size: 115px;
+    font-weight: 800;
+    line-height: 103px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
